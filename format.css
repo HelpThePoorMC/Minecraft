@@ -1,1 +1,10 @@
-
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lucida Console";
+  color: green;
+}
+body {
+  font-family: "Lucida Console";
+  font-size: 20px;
+  color: brown;
+  background-image: linear-gradient(blue, white);
+}
